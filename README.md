@@ -33,6 +33,7 @@ To get started with Learnest, follow these steps:
 
 The project follows a standard Nest.js folder structure:
 
+```
 project-root/
 |-- src/
 | |-- controllers/
@@ -51,7 +52,7 @@ project-root/
 |-- package.json
 |-- tsconfig.json
 
-css
+```
 
 
 ## Contributing
