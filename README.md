@@ -25,7 +25,7 @@ Welcome to Learnest! This project is designed to help you learn Nest.js by provi
 
 To get started with Learnest, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/learnest.git`
+1. Clone the repository: `git clone https://github.com/erfuuan/learnest.git`
 2. Install dependencies: `cd learnest && npm install`
 3. Run the application: `npm run start`
 
