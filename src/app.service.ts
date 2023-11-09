@@ -5,4 +5,8 @@ export class AppService {
   getHello(): string {
     return 'Hello World!';
   }
+
+  testApi(): any {
+    return { status: 'success' };
+  }
 }
